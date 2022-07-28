@@ -1,5 +1,29 @@
 # 💫 About Me:
-• Attended Data Science and Machine Learning Bootcamp a 24-week program with 500+ hours of coursework, 10 coding assignments, 3 projects on Web Scraping,EDA and Machine Learning.<br>• Working as Technical Lead at Wipro Technologies,Toronto from past 10 years with focus on building cross-browser web applications using Java RESTful APIs.<br>• Enjoy performing Exploratory Data Analysis on Kaggle datasets and building Machine Learning models along with Software Programming.
+• Attended Data Science and Machine Learning Bootcamp a 24-week program with 500+ hours of coursework, 10 coding assignments, 3 projects on Web Scraping,EDA and Machine Learning.<br>
+• Working as Technical Lead at Wipro Technologies,Toronto from past 10 years with focus on building cross-browser web applications using Java RESTful APIs.<br>
+• Enjoy performing Exploratory Data Analysis on Kaggle datasets and building Machine Learning models along with Software Programming.
+
+## Projects
+
+### Exploratory Data Analysis and Visualization of Loan Investment Data
+• Analyzed loan investment data of around 38k rows and 39 columns using Pandas.<br>
+• Created wide range of visualizations including Count, Pie & Violin using Matplotlib, Seaborn & Plotly.<br>
+• Discovered insights including major defaulters from Credit Card and Small Business loan purposes.
+
+### Predicting USA housing Price using Machine Learning
+• Worked with Housing dataset from kaggle containing 100K rows and 15 columns (Numeric & Category).<br>
+• Created and trained a Linear, Random Forests and Gradient Boosted trees using Scikit and XGBoost.<br> 
+• Obtained an accuracy of 91% on test dataset, after experimenting with 10 sets of hyperparameters.
+
+### Bookshop Dashboard using Tableau (View)
+• Analyzed data,created interactive visualizations and published a dashboard using Tableau.<br>
+• Summarized the data in Excel workbook to determine the Average Ratings and Monthly Sales.<br>
+• Created interactive visualizations like Bar,Pie and Maps with drop downs and sliders as filters. 
+
+### Web Scraping using Beautiful Soup (View)
+• Scraped website to get the financial information of specific stock on the given date.<br>
+• Downloaded the data using Requests and parsed the HTML source code using Beautiful Soup library.<br>
+• Stored data consisting of 900 rows x 7 columns and converted into Pandas data frame. 
 
 
 ## 🌐 Socials:
