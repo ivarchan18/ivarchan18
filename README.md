@@ -1,4 +1,4 @@
-## 💫 Summary:
+## 💫 Education and Work Experience:
 • Attended Data Science and Machine Learning Bootcamp a 24-week program with 500+ hours of coursework, 10 coding assignments, 3 projects on Web Scraping,EDA and Machine Learning.<br>
 • Working as Technical Lead at Wipro Technologies,Toronto from past 10 years with focus on building cross-browser web applications using Java RESTful APIs.<br>
 • Enjoy performing Exploratory Data Analysis on Kaggle datasets and building Machine Learning models along with Software Programming.
