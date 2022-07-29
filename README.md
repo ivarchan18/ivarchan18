@@ -3,24 +3,24 @@
 • Working as Technical Lead at Wipro Technologies,Toronto from past 10 years with focus on building cross-browser web applications using Java RESTful APIs.<br>
 • Enjoy performing Exploratory Data Analysis on Kaggle datasets and building Machine Learning models along with Software Programming.
 
-## Projects:
+## Projects [(View All)](https://jovian.ai/ivarchan):
 
-### Exploratory Data Analysis and Visualization of Loan Investment Data
+### Exploratory Data Analysis and Visualization of Loan Investment Data [(View)](https://jovian.ai/ivarchan/loans-datasets-project)
 • Analyzed loan investment data of around 38k rows and 39 columns using Pandas.<br>
 • Created wide range of visualizations including Count, Pie & Violin using Matplotlib, Seaborn & Plotly.<br>
 • Discovered insights including major defaulters from Credit Card and Small Business loan purposes.
 
-### Predicting USA housing Price using Machine Learning
+### Predicting USA housing Price using Machine Learning [(View)](https://jovian.ai/ivarchan/usa-housing-listings)
 • Worked with Housing dataset from kaggle containing 100K rows and 15 columns (Numeric & Category).<br>
 • Created and trained a Linear, Random Forests and Gradient Boosted trees using Scikit and XGBoost.<br> 
 • Obtained an accuracy of 91% on test dataset, after experimenting with 10 sets of hyperparameters.
 
-### Bookshop Dashboard using Tableau
+### Bookshop Dashboard using Tableau [(View)](https://public.tableau.com/app/profile/ravi.chandra8742/viz/BookshopDashboard_16552385803620/BookshopDashboard)
 • Analyzed data,created interactive visualizations and published a dashboard using Tableau.<br>
 • Summarized the data in Excel workbook to determine the Average Ratings and Monthly Sales.<br>
 • Created interactive visualizations like Bar,Pie and Maps with drop downs and sliders as filters. 
 
-### Web Scraping using Beautiful Soup
+### Web Scraping using Beautiful Soup [(View)](https://jovian.ai/ivarchan/final-web-scraping-project)
 • Scraped website to get the financial information of specific stock on the given date.<br>
 • Downloaded the data using Requests and parsed the HTML source code using Beautiful Soup library.<br>
 • Stored data consisting of 900 rows x 7 columns and converted into Pandas data frame. 
