@@ -3,7 +3,7 @@
 • Working as Technical Lead at Wipro Technologies,Toronto from past 10 years with focus on building cross-browser web applications using Java RESTful APIs.<br>
 • Enjoy performing Exploratory Data Analysis on Kaggle datasets and building Machine Learning models along with Software Programming.
 
-## Projects [(View All)](https://jovian.ai/ivarchan):
+## Projects:
 
 ### Exploratory Data Analysis and Visualization of Loan Investment Data [(View)](https://jovian.ai/ivarchan/loans-datasets-project)
 • Analyzed loan investment data of around 38k rows and 39 columns using Pandas.<br>
