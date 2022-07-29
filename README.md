@@ -15,12 +15,12 @@
 • Created and trained a Linear, Random Forests and Gradient Boosted trees using Scikit and XGBoost.<br> 
 • Obtained an accuracy of 91% on test dataset, after experimenting with 10 sets of hyperparameters.
 
-### Bookshop Dashboard using Tableau (View)
+### Bookshop Dashboard using Tableau
 • Analyzed data,created interactive visualizations and published a dashboard using Tableau.<br>
 • Summarized the data in Excel workbook to determine the Average Ratings and Monthly Sales.<br>
 • Created interactive visualizations like Bar,Pie and Maps with drop downs and sliders as filters. 
 
-### Web Scraping using Beautiful Soup (View)
+### Web Scraping using Beautiful Soup
 • Scraped website to get the financial information of specific stock on the given date.<br>
 • Downloaded the data using Requests and parsed the HTML source code using Beautiful Soup library.<br>
 • Stored data consisting of 900 rows x 7 columns and converted into Pandas data frame. 
