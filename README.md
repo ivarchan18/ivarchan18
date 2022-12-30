@@ -1,9 +1,35 @@
-## Education and Work Experience:
-• Attended Data Science and Machine Learning Bootcamp a 24-week program with 500+ hours of coursework, 10 coding assignments, 3 projects on Web Scraping,EDA and Machine Learning.<br>
-• Working as Technical Lead at Wipro Technologies,Toronto from past 10 years with focus on building cross-browser web applications using Java RESTful APIs.<br>
-• Enjoy performing Exploratory Data Analysis on Kaggle datasets and building Machine Learning models along with Software Programming.
+## Summary:
+• An innovative programmer with over 15+ years experience building enterprise web applications using Java related MVC based frameworks like Struts and Spring with Hibernate for Persistence.
 
-## Projects:
+• Have good experience on developing, implementing, documenting, and maintaining highly complex and scalable software applications with strong experience in Agile (SCRUM and Pair Programming) and Test-Driven Methodologies.
+
+• Attending Jovian Data Science and Machine Learning Bootcamp which is a online program designed to help and learn industry-standard tools & techniques for data science and build real-world projects
+
+
+## Education and Work Experience:
+### Technical Lead - Wipro Technologies, Toronto, Canada                               	         (Jan 2011- Ongoing)
+• Collaborated closely with management, vendors and associated third parties to get the requirements and developed the fully functional financial transaction interface and data management applications.
+
+• Developed and maintained back end RESTful APIs with JSON requests serving more than 15 clients. 
+
+• Supervised and led a team of around 6+ offshore junior developers to ascertain the completion of key projects within the budget and schedule.  
+
+• Utilized Java related web frameworks like Spring boot to develop fully automated client management systems for efficient maintenance of client financial accounts.
+
+### Senior Software Engineer - Wipro Technologies, Bangalore, India	     	                       (Aug 2007 - Dec 2010)
+• Delivered new and complex high-quality solutions to clients in response to business requirements
+
+• Developed hibernate mapping files and integrated hibernate in Spring ORM module.
+
+• Developing customized code, unit testing and end-user training documents
+
+### Software Engineer - Verity Technologies, Bangalore, India			                                (Feb 2003 - July 2007)
+• Adhering to good development guidelines to write good, clean and reusable code
+
+• Resolved technical issues through debugging, research, and investigation.
+
+
+## Data Science Projects:
 
 ### Exploratory Data Analysis and Visualization of Loan Investment Data [(View)](https://jovian.ai/ivarchan/loans-datasets-project)
 • Analyzed loan investment data of around 38k rows and 39 columns using Pandas.<br>
