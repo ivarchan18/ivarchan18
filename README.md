@@ -6,7 +6,7 @@
 • Attending Jovian Data Science and Machine Learning Bootcamp which is a online program designed to help and learn industry-standard tools & techniques for data science and build real-world projects
 
 
-## Education and Work Experience:
+## Work Experience:
 ### Technical Lead - Wipro Technologies, Toronto, Canada                               	         (Jan 2011- Ongoing)
 • Collaborated closely with management, vendors and associated third parties to get the requirements and developed the fully functional financial transaction interface and data management applications.
 
